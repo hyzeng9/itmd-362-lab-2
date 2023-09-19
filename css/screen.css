@@ -1,34 +1,35 @@
-body  {
-  
+body {
+  background-color:rgb(130, 255, 255);
+  font-size: 1em;
 }
 
-h1  {
+h1 {
      
 }
 
-#email input, label  {
+#email input, label {
 
 }
 
-#phoneNumber input, label  {
+#phoneNumber input, label {
 
 }
 
-#dob input, label  {
+#dob input, label {
 
 }
 
-#submit::before  {
+#submit::before {
   
 }
 
-#form  {
+#form {
 
 }
 
-@media only screen and (min-width: 800px)  {
+@media only screen and (min-width: 800px) {
   #form{
-    width: 
-    flex-wrap: 
+    width: ;
+    flex-wrap: ;
   }
 }
