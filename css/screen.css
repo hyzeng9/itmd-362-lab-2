@@ -37,13 +37,12 @@ input {
   color: #695070;
   border: 0.3em solid #FFF4E9;
   box-sizing: border-box;   
-  width: 60%;
-  margin-left: 19em;
-  padding: 10px;
-  align-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
   text-align: center;
-  display: block;
-  justify-content: center;
   background-color:#C3A29E;
 }
 
